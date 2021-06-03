@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of the letter, of the Nationall Synod of the Reformed Churches of France. Represented to the Kings Majesty. Together, with the complaint made to his Majestie, concerning divers aggrievances, at Campeigne the 16. of September, 1631. by the two deputies of the said synod, Mr. Amirault minister, and Mr. De Vizars gentleman. With the answer and the letter of his Majesty returned to the synod</title>
+            <author>Eglises réformées de France. Synode national. (1631)</author>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A01184</idno><idno type="EEBO-CITATION">99853355</idno>
+  <idno type="VID">18736</idno>
+  <idno type="EEBO-PROQUEST">2248556945</idno>
+  <idno type="STC">STC 11299</idno>
+  <idno type="STC">ESTC S118146</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99853355e"/>
+            <note>(EEBO-TCP ; phase 2, no. A01184)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18736)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1236:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of the letter, of the Nationall Synod of the Reformed Churches of France. Represented to the Kings Majesty. Together, with the complaint made to his Majestie, concerning divers aggrievances, at Campeigne the 16. of September, 1631. by the two deputies of the said synod, Mr. Amirault minister, and Mr. De Vizars gentleman. With the answer and the letter of his Majesty returned to the synod</title>
+                  <author>Eglises réformées de France. Synode national. (1631)</author>
+                  <author>Louis XIII, King of France, 1601-1643.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Eliot's Court Press?] for Nath: Butter, and Nich: Bourne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1631.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name suggested by STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Amirault, --  Minister.</term>
+               <term type="personal_name">De Vizars, --  Gentleman.</term>
+               <term type="geographic_name">France --  Church history --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:18736:1"/>
+            <pb facs="tcp:18736:1"/>
+            <p>A COPIE OF THE LETTER, Of the Nationall <hi>Synod</hi> of the Reformed Churches of FRANCE. Represented to the Kings Majesty.</p>
+            <p>TOGETHER, <hi>With the Complaint made to his Majestie,</hi> concerning divers Aggrievances, at CAM<g ref="char:EOLhyphen"/>PEIGNE the 16. of <hi>September,</hi> 1631. by the <hi>two Deputies of the said Synod, Mr.</hi> AMIRAVLT Minister, and Mr. DE VILARS Gentleman.</p>
+            <p>WITH The Answer and the Letter of his Majesty returned to the Synod.</p>
+            <p>LONDON, Printed for NATH: BVTTER, and NICH: BOVRNE. 1631.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:18736:2"/>
+            <pb n="1" facs="tcp:18736:2"/>
+            <head>THE COPIE OF THE CON<g ref="char:EOLhyphen"/>tents of a Letter written from PARIS, the 3. of <hi>October,</hi> 1631. Concerning <hi>the Synod of the Reformed Chur<g ref="char:EOLhyphen"/>ches.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>O leave other things, I passe to acquaint you with our Nationall <hi>Synode,</hi> and what hath happened in that Assembly, worthy of Ob<g ref="char:EOLhyphen"/>servation.</p>
+            <p>In the beginning and entrance of the Nati<g ref="char:EOLhyphen"/>onall <hi>Synode</hi> convocated at <hi>Paris,</hi> the 1. of <hi>September,</hi> the Commissary M<seg rend="sup">r</seg>. <hi>Galland,</hi> in the Kings behalfe declared, that his Maj. prohibited three of the Deputies of that As<g ref="char:EOLhyphen"/>sembly to take any place in the same <hi>Synod,</hi> to wit: M. <hi>Ba<g ref="char:EOLhyphen"/>nage</hi> one of the Pastors or Ministers deputyed for the Pro<g ref="char:EOLhyphen"/>vince of <hi>Normandy,</hi> M. <hi>Berault</hi> Pastor and Professor at <hi>Mon<g ref="char:EOLhyphen"/>tauban,</hi> and M <hi>Bouterove,</hi> Pastor and Minister of the Church of <hi>Grenoble.</hi> Mons. <hi>Bouterove</hi> being happily arri<g ref="char:EOLhyphen"/>ved at the beginning, and before the rest at <hi>Paris,</hi> for some necessary affaires, had received the sayd prohibition. M. <hi>Basnage</hi> before ever he departed out of <hi>Normandy,</hi> was com<g ref="char:EOLhyphen"/>manded not to remove thence in 6. Weekes.</p>
+            <p>As for M. <hi>Berault,</hi> being newly arrived at <hi>Paris,</hi> at the first entrance of the <hi>Synod,</hi> and having but taken his place in the <hi>Synod,</hi> the Commissary caused him to depart, in a rude manner.</p>
+            <pb n="2" facs="tcp:18736:3"/>
+            <p> The cause or subject of the interdiction of the sayd M<seg rend="sup">r</seg>. <hi>Berault,</hi> was openly declared by the Commissary: As namely, that during the last troubles, he had composed or written some Booke, wherein he laboured to prove that the Ministers themselves might goe to Warres, fight and shed bloud. Which the Kings Councell finding to be ve<g ref="char:EOLhyphen"/>ry bad, had condemned the same Booke, and therefore would have the <hi>Synod</hi> to give Iudgment, and passe theyr Verdict concerning the same, which they have done, and condemned the same Proposition, as a Doctrine not agree<g ref="char:EOLhyphen"/>able to our Beliefe.</p>
+            <p>As for the cause of the Interdiction of the other two, as I beleeve, the Commissary spoke nothing at all: because they were not there present, and had not need to make them depart, for they had received their prohibition be<g ref="char:EOLhyphen"/>fore hand from the King himselfe. Onely I have heard something concerning M. <hi>Bouterove,</hi> that the cause of his Interdiction was, because he had written a book, in which he had (speaking generally concerning the Church of <hi>Rome</hi>) shewed that the same Church doth hold divers <hi>Maximes</hi> dangerous and pernicious to the superiour pow<g ref="char:EOLhyphen"/>ers, which I am perswaded would not have beene so hay<g ref="char:EOLhyphen"/>nously taken, if he had onely applyed his affirmation to some of the Romish Church, as namely the Iesuites, and not set it downe generally. But it was his generall affirma<g ref="char:EOLhyphen"/>tion, which brought him that prejudice.</p>
+            <p>As for M. <hi>Basnage,</hi> I know not of any particular cause that hath beene alledged against him, neyther have I heard of any, only we may suspect that he is opposed because he was in the last Assembly at <hi>Rochel,</hi> others beleeve, that the Commissary hath something against him, who indeed is all in all in the carriage of these affaires. For since he was in that Assembly, he hath beene deputed to the other <hi>Synod</hi>
+               <pb n="3" facs="tcp:18736:3"/>Nationall at <hi>Charenton,</hi> which was held 6. or 7. yeares a goe, neyther was there then any thing objected against him, or any difficulty made.</p>
+            <p>I did forget to tell you, concerning the sayd M. <hi>Berault,</hi> how that the Commissary did declare more; as namely, that the King did forbid him the Professorship in <hi>Theolo<g ref="char:EOLhyphen"/>gy.</hi> As also he said that his Mai. did forbid M. <hi>Salbert</hi> (who was formerly Minister at <hi>Rochel</hi>) to execute any ministeri<g ref="char:EOLhyphen"/>all function in his Kingdome. The reason is, because he had solicited forraigne Princes to make warre against him. Ne<g ref="char:EOLhyphen"/>verthelesse his Mai. permits him graciously to live in his Kingdome, as a particular man.</p>
+            <p>He sayes further, that his Mai. prohibites hereafter any strange Ministers to be received here, comprehending un<g ref="char:EOLhyphen"/>der the name of strangers, those who are of Countries al<g ref="char:EOLhyphen"/>lyed to his Mai. and those Townes that are under his pro<g ref="char:EOLhyphen"/>tection. Permitting neverthelesse, those that are already in charge, to continue without controlment. Declared al<g ref="char:EOLhyphen"/>so, that it was his Mai. will and pleasure, that our Provin<g ref="char:EOLhyphen"/>ciall <hi>Synod</hi> should hence forward be held at 2. certaine mo<g ref="char:EOLhyphen"/>neths of the yeare, &amp; in 2. places of every Province, which he doth allow us to chuse. The nomination of the Depu<g ref="char:EOLhyphen"/>ties generall which was made here within our politique Assemblies, and since by our Nationall <hi>Synods,</hi> as the same was practised in the last Synod of <hi>Castres,</hi> hath this time beene onely done by the Commissary him<g ref="char:EOLhyphen"/>selfe, so that the Synod was not permitted to delibe<g ref="char:EOLhyphen"/>rate in that. And the sayd Commissary declared, that it was the Kings pleasure, that the Marquesse <hi>De Clermont</hi> should continue the charge which hee hath exercised, ever since the Synod of <hi>Ca<g ref="char:EOLhyphen"/>stres,</hi> and that the sonne of the said Commissary should be adioyned to the sayd Marquesse for a second Deputy,
+<pb n="4" facs="tcp:18736:4"/>so that Deputies are given to the Churches, without their deputation.</p>
+            <p>The <hi>Synod</hi> hath sent to the King to salute his Majesty, and offer him all submission and obedience, and to put up their supplication, and to make divers complaints to him. To this end they have deputed M. <hi>Amirault,</hi> Pastor of the Church of <hi>Sanmur,</hi> and <hi>De Villars,</hi> a Gentleman of <hi>Dau<g ref="char:EOLhyphen"/>phine.</hi> Who among the rest, had charge to require of his Maj. that those who were in the beginning and entrance of the <hi>Synod</hi> excluded, might againe be admitted. That his Maj. would be pleased to permit Mons. <hi>Salberi</hi> the free ex<g ref="char:EOLhyphen"/>ercise of his Ministery, and to Mons. <hi>Berault,</hi> forgetting all that is past. And that also he would give them leave to receive those Ministers and Pastors seated within the County Townes which are under his protection, as <hi>Ge<g ref="char:EOLhyphen"/>neva</hi> and <hi>Sedan.</hi> And that he would command that free<g ref="char:EOLhyphen"/>dome and liberty of exercise might be restored almost to 80 or 100. Churches, where the same is debarred in di<g ref="char:EOLhyphen"/>vers Provinces. And that there may be a ceasing of all those harsh and violent proceedings against many Mini<g ref="char:EOLhyphen"/>sters, who have been ill used, and very hardly dealt withal, onely for preaching of those points of Doctrine, which are permitted and allowed to bee preached by his Edicts. And that the Minister of one place may not be forbidden or hindered to preach in another place, as in many pla<g ref="char:EOLhyphen"/>ces they are debarred from this liberty. When they have occasion to passe through this or that Towne, or Vil<g ref="char:EOLhyphen"/>lage, being thereunto required. Nor to debarre the Minister of one Church, to preach in all Churches by Order.</p>
+            <p>For in some kind Ministers are prohibited to preach in divers places, and those whose charge extends to many,
+<pb n="5" facs="tcp:18736:4"/>are confin'd and limited onely to one place. Also that his Majesty would be pleased to cause many Protestants who are most miserably kept and made Gally-slaves, ever since the last troubles, to be delivered. For notwithstanding that his Majesty so graciously hath granted an abolition of all that is past by his Letters Patents, and granted a gene<g ref="char:EOLhyphen"/>rall peace to all his Subjects, these neverthelesse are not restored to liberty. This is all that I can remember con<g ref="char:EOLhyphen"/>cerning the complaints made to his Majesty.</p>
+            <p>The Answer given them was this. That they should be answered and resolved when their <hi>Synod</hi> should bee broken up, but not before. Onely Mounsieur <hi>Bas<g ref="char:EOLhyphen"/>nage</hi> and <hi>Berault,</hi> were permitted to enter into the Assembly of the <hi>Synod,</hi> but not Mons. <hi>Bonteroue.</hi>
+            </p>
+            <p>This is all I can impart to you, concerning the present affaires of the <hi>Synod:</hi> At returne of the Deputies I shall be able better to informe you.</p>
+         </div>
+         <div type="letter">
+            <head>Copy of the Letter of the <hi>Nationall Synod</hi> of the Re<g ref="char:EOLhyphen"/>formed Churches of <hi>France,</hi> presented to the <hi>Kings Maiestie.</hi>
+            </head>
+            <opener>
+               <salute>SOVERAIGNE,</salute>
+            </opener>
+            <p>Being here assembled together, through the gracious permission of your Maiesty: Jt hath beene our first and chiefest care, (after the lifting vp of our hands to heaven, in thankesgiving, for that it hath pleased Almighty God to cause us to finde favour in the sight of your Maj.) to render our most humble and hearty thankes to your Maiesty, as to his lively Image. Trusting that as the same God doth not only heare the humble Prayers of his Children, but also doth receive their Complaints, and doth remedy their priefe and sorrowes, so also your Maiesty will imitate him in the same: and will together
+<pb n="6" facs="tcp:18736:5"/>with the humble testification of our duty, receive the supplications of your poore Subjects, afflicted in divers manner of Wayes. Who vsing no other but innocent meanes, have no other refuge but to your Mai. bounty, nor no other confidence but to your royall Clemency. Be your Ma<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esty therefore graciously pleased to permit the Lord <hi>Amyrant,</hi> and <hi>De Villars;</hi> to cast downe themselves at your feet, to renew unto your Mai. the sincere Protestations of our most humble fidelity, subie<g ref="char:EOLhyphen"/>ction, and service, and to acquaint you with the infractions and brea<g ref="char:EOLhyphen"/>ches of your royall Edicts, made almost in all the Provinces of your Kingdome. Jn the meane while we doe not onely in our owne name, but also in the name of many thousands of Soules, which make profes<g ref="char:EOLhyphen"/>sion of our Religion, and for whose sake we are here assembled, vnder your Royall and Fatherly goodnesse, continue our humble Supplica<g ref="char:EOLhyphen"/>tions to Almighty God, for the prosperity of your Sacred person, the maintainance and affirmation of your Scepter, the managing of your State, Tryumph and Ʋictory of your armes, and the Benediction of your royall Bed, As being alwayes</p>
+            <closer>
+               <salute>SOVERAIGNE,</salute>
+               <signed>
+                  <hi>The most humble, most obedient, and faithfull Subjects and Servants of your Maj. The Depu<g ref="char:EOLhyphen"/>ties at the Nationall</hi> Synod <hi>assembled at</hi> Cha<g ref="char:EOLhyphen"/>renton. <hi>And in the name of all the rest,</hi>
+                  <list>
+                     <item>Mestresat, Moderator.</item>
+                     <item>Iamet, Adioyn'd.</item>
+                     <item>Blondell, Secretarie.</item>
+                     <item>Armet, Secretarie.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:18736:5"/>
+            <head>THE COMPLAINT MADE TO THE French King at <hi>Campeigne,</hi> the 16. of <hi>September,</hi> 1631. <hi>by M<seg rend="sup">r</seg>.</hi> AMYRANT <hi>Minister,</hi> and <hi>M<seg rend="sup">r</seg>.</hi> DE VILLARS Gentleman: Both of them Deputed of the Synod of the Reformed <hi>Churches.</hi>
+            </head>
+            <opener>
+               <salute>SOVERAIGNE,</salute>
+            </opener>
+            <p>YOur most humble Subjects and servants the Deputies assembled in the Nationall <hi>Synod</hi> at <hi>Charenton,</hi> acknow<g ref="char:EOLhyphen"/>ledging with thankfulnesse, the freedome and liberty which they doe injoy by your Maiesties gracious permis<g ref="char:EOLhyphen"/>sion: Come now in our persons to bend their knees and humbly to bow themselves before your Majesty, to doe you homage and reverence. With all the sensiblenesse of your favour, and so much thankfulnesse as the spirit of man is capable of. O Soveraigne they cannot but admire the providence of God, who hath bent and inclined your Royall heart towards them, &amp; also towards those which they have sent from all parts of your Kingdome, and your Majesties clemencie, who hath pursued and fol<g ref="char:EOLhyphen"/>lowed these kinde and favourable inclinations, af<g ref="char:EOLhyphen"/>ter so many and lamentable desolations, granting them the gracious sight of the favourable face of their Soveraigne, and being present to the eyes of all <hi>France,</hi> to treate upon matters concerning their Religion, and to care the most humble supplications which they make to your Maiesty. This favour, Deare Soveraigne, they are more sensible of, than they can sufficiently meditate on, or verbally ex<g ref="char:EOLhyphen"/>presse. Yea, the same gracious favour, hath reduced us un<g ref="char:EOLhyphen"/>to those duties, which both Nature and Conscience hath so strictly tyed us, and which devoir and obedience is so
+<pb n="8" facs="tcp:18736:6"/>particularly recommended unto us, by the same Religion which we professe and teach: namely, to worship your Maj. as being the lively Image of God amongst us. And to keepe your Commandement (after those in <hi>Theology</hi>) in<g ref="char:EOLhyphen"/>violable, and with all obedience and conscience, to de<g ref="char:EOLhyphen"/>pend wholly on your authority, and to have no other but your fatherly care and providence, for our defence and protection. As likewise to pray God from the intimate and sincere desires of our hearts, for the conservation and prosperity of your sacred person, the peace and greatnesse of your state, the glory of your Crowne and name, and the happy and good successe of all your magnanimous en<g ref="char:EOLhyphen"/>terprizes; and to exhort and instigate all your Subiects, which are of the same profession with us, freely to spend their lives, and spill their bloud for the service of your Maj. upon all occasions. To this end, we come to request your Maj. to assure your selfe that they all have a Cordiall devotion, and entyre resolution to this effect.</p>
+            <p>But, O Soveraigne, as your goodnesse &amp; clemency doth excite &amp; strengthen in us these good intentions, and moti<g ref="char:EOLhyphen"/>ons, so likewise doth the same yeeld the boldnesse to cō<g ref="char:EOLhyphen"/>plain before your gracious Maj. in all profound humility, that these good effects of your Maj gracious pleasure to<g ref="char:EOLhyphen"/>wards us, are in divers places hindered and stayed by e<g ref="char:EOLhyphen"/>vil oppositions. For notwithstanding your Maj. hath by so<g ref="char:EOLhyphen"/>lemne declarations from time to time confirmed his E<g ref="char:EOLhyphen"/>dicts for the freedome and liberty of the exercise of our Religion, neverthelesse within this 3. yeares the same li<g ref="char:EOLhyphen"/>berty hath utterly beene taken away, beyond the former disputations, In <hi>Xaintonge</hi> in 24. places, in <hi>Sevennes</hi> in 19. In lower <hi>Languedocke</hi> in 20. in <hi>Vivarets</hi> in 29. and like<g ref="char:EOLhyphen"/>wise in many places more, which as yet have not obtai<g ref="char:EOLhyphen"/>ned their reestablishment. As for the remainder of our
+<pb n="9" facs="tcp:18736:6"/>Churches, in the use of the benefits of your Edicts, a great part of the same will utterly be lost in a moment, if those arrests given in your Maj. owne Councell, for the prohi<g ref="char:EOLhyphen"/>biting of Ministers to preach in places remote from their owne habitations and abode, be put in execution.</p>
+            <p>In the yeare 1623. we were forbidden by your Maiesty from thence forward to receive any Ministers that were strangers borne. Vnto which we have with great respect and submission willingly obeyed. But now this prohibi<g ref="char:EOLhyphen"/>tion, as by your Maj. Commissaries extended even to those places which are within your Maj. own protection. Which formerly hath not beene so, and which unto us seemes a very strange restraint of our ancient liberties, and unto those Countries, a testimony of the diminution of your Maj. good will towards them.</p>
+            <p>But O Soveraigne, here is that which is worse, namely that notwithstanding by your Maj. owne Edicts, liberty be granted unto us, to preach the doctrine of our beliefe, neverthelesse many of our Ministers are extreamly pro<g ref="char:EOLhyphen"/>secuted by Proctors generall, in the Parliament of <hi>Toulouse</hi> and <hi>Bordeaux,</hi> and especially for this cause, namely for preaching that which by your Maj. permission, and your predecessor before you, long since, hath beene preached publikely in your Kingdome.</p>
+            <p>Neither are the Ministers only those that doe tast of, &amp; are experienced with the malice borne to our Religion, but all the rest are equally sensible thereof. For so far is it frō thence, that any of our Religion is admitted vnto any emi<g ref="char:EOLhyphen"/>nent charge within your Parliaments, that the very meane Proctors are quite rejected. Yea in the inferior places, the very Sergeants are repulsed. In the Vniversities the Digni<g ref="char:EOLhyphen"/>ty &amp; title of a D<seg rend="sup">r</seg>. is refused, be it either to those that desire to proceed in Physick or other profession. In your cōmon
+<pb n="10" facs="tcp:18736:7"/>Cities and Townes, freedome is denyed unto them in the meanest and poorest Mechanich Trades. Notwithstanding that your Maj. Edicts in these things, afford all your sub<g ref="char:EOLhyphen"/>jects an equall condition.</p>
+            <p>As for the liberty which it hath pleased your Majesty to use towards us a long time, and the continuation of the which, we have alwayes hoped for, and especially we ex<g ref="char:EOLhyphen"/>pected as much at <hi>Castres,</hi> as also verified to us by many grants which have so favourably accompanied your Maj. mercifull grace towards us; there have many yeares pas<g ref="char:EOLhyphen"/>sed in the which we have seene no effects at all of the same. Thus is the testimony of your Maj. gracious favour and good will toward, cut off and obscured. And so pre<g ref="char:EOLhyphen"/>sently we are deprived of that just and reasonable recom<g ref="char:EOLhyphen"/>pence, which was granted unto us (by your late Father of glorious and immortall memory) for the tythes which we doe pay unto the Clergy.</p>
+            <p>And whereas our <hi>Synods</hi> are so conducent and profita<g ref="char:EOLhyphen"/>ble for our subsistence, and notwithstanding the same, be so openly tolerated by your Majesties owne Edicts, never<g ref="char:EOLhyphen"/>thelesse, we doe meet with abundance of opposition and contradiction. The Lords, the Governours of your Pro<g ref="char:EOLhyphen"/>vinces, eyther refusing, or otherwise delaying the nomi<g ref="char:EOLhyphen"/>nation of the Commissaries.</p>
+            <p>As for that <hi>Synod</hi> Naitonal which now by your Gra<g ref="char:EOLhyphen"/>cious permission we are assembled at, give us leave to tell you, O Soveraigne, that after wee had waited 5. yeares, the same was interdicted and prohibited to M. <hi>Basnage,</hi> M. <hi>Bouterove,</hi> and <hi>Berault,</hi> who were deputed and there<g ref="char:EOLhyphen"/>unto, and who should neyther have voyce nor agreement there, but onely for your Maj. service. Lastly, (which indeed we cannot speake or expresse without feare and trembling, &amp; which we hope will move your compassion)
+<pb n="11" facs="tcp:18736:7"/>your Maj. hath granted a free pardon to so many others, yet above 2. hundred Protestants at this day, remaining in Gallyes and other flaveries, are kept in that miserable, ig<g ref="char:EOLhyphen"/>nominious, and wofull suffering. O lamenaable mishap, which returnes us backe to the wounds and suffering, for the cause of our Profession, and which will not yeeld un<g ref="char:EOLhyphen"/>to our posterity the just cause of acknowledging those royall vertues in your Maj. but will diminish the splendor of the glory of your Maj. clemency.</p>
+            <p>Wherefore (deare Soveraigne) we doe must humbly in<g ref="char:EOLhyphen"/>treat and supplicate your Maj. by the Authority which your lawes ought to have amongst all your Subjects, by the constancy and firmenesse of your Royall word, by the equity and Iustice which hath procured you a title more glorious than that of <hi>Alexander,</hi> or <hi>Caesar,</hi> by the <hi>Debo<g ref="char:EOLhyphen"/>narith</hi> and meeknesse, which is as it were naturall to your Maj. and in the which are ingraven all the good actions of Princes, by your liberality; a vertue so worthy of a great King, and by the tendernesse of your compassions, in the which humaine Nature doth approach unto Divine, more than in any thing, that you would be pleased for the re<g ref="char:EOLhyphen"/>stauration of the poore dispersed Churches, to regrant the ancient vigour unto your Edicts, to revoke the stayes and obstacles and arrests, which teare and rent them in pieces. To permit that we may receive into our Ministery, those who are borne in the Soveraignties and Common-weales of your Maj. protection, to cause all prosecutions of your Proctors, generall to cease against us, and to impose silence upon them, to open againe unto us the entrance into our Trades and functions. And if so far we may finde grace in the face of your Maj to grant unto us (in publike charges and dignities) assignations and assurance for what is past, and order for the time to come, to ease by your authority,
+<pb n="12" facs="tcp:18736:8"/>the stay and detainement of our <hi>Synods,</hi> Provincionall, and Nationall, to restore vnto those aboue mentioned, the place which their Deputation gave them, to give Charge and command, that the chaynes and shackles of those mi<g ref="char:EOLhyphen"/>serable Caitiffes which in so long space haue had no com<g ref="char:EOLhyphen"/>fort or hope heretofore, but onely in the very thought and meditation of your Majesties clemency. And if it shall please your Maj. to receive our most humble request, and grant them, and give vs the assurance of the same, by cau<g ref="char:EOLhyphen"/>sing favourably and promptly answer to be given by the Lords of your Councell, to the end that with great con<g ref="char:EOLhyphen"/>tentment wee may carry backe with vs satisfaction to all those who have sent vs, and may disperse the Ioy thereof into all the Provinces of your Majesties Kingdome: Be<g ref="char:EOLhyphen"/>sides the acclamation of so many thousands which expect so good tydings, and the delight which will returne backe to your Majesties owne heart. For having imitated God himselfe, who delights in the exercise of Iustice and Mer<g ref="char:EOLhyphen"/>cy, to whomsoever hee is pleased to retaine; your Majest. shall receive for recompence, the abundant benedictions from Heaven, which wee will draw downe vpon your head by our ardent vowes, and assiduall prayers. For as concerning the Affection which wee ought to have vnto your Majesties service, although indeed by your Benefi<g ref="char:EOLhyphen"/>cence, you might augment and redouble our Obligations, yet wee dare boldly and humbly protest, that the same is come to that point. (O Soveraigne) that henceforward it is almost impossible that the same should be increased.</p>
+            <p>And although heretofore wee have not in obedience beene inferiour to the best of your Maiesties Subiects, yet in time to come wee will surpasse and abound more and more, to which end wee will adde all our endevours.</p>
+            <pb n="13" facs="tcp:18736:8"/>
+            <p> This it is that wee your Most humble and most Obedi<g ref="char:EOLhyphen"/>ent Servants had to declare vnto your Sacred Ma<g ref="char:EOLhyphen"/>jestie.</p>
+         </div>
+         <div type="answer">
+            <head>The Answer of his Majesty vnto the former Complaint.</head>
+            <p>I Haue heard and vnderstood all that you have sayd. You may fully assure your selves that I will maintaine you in my Edicts. Giue me your Demonstration, and I will see it in my Councell.</p>
+         </div>
+         <div type="letter">
+            <head>Here followes a Letter of his Majesty, written and sent to the Synod.</head>
+            <byline>By the King.</byline>
+            <opener>
+               <salute>Deare and welbeloved.</salute>
+            </opener>
+            <p>Wee have seene by your Letter dated the third of this Moneth, and vnderstood by the mouth of our Deputies, and the relation which they have presented to Vs concerning the affaires of your present <hi>Synod,</hi> Convocated by our permissi<g ref="char:EOLhyphen"/>on in that Place called <hi>Charenton.</hi> And because Wee have made your Deputies partly acquainted with our intention, and doe more particularly charge Monsieur <hi>Galland</hi> with the same, wee will not be tedious or presize at this present. Onely thus much, that I desire you to put a full trust and confidence in what soever the said Monsieur <hi>Galland</hi> shall say vnto you in Our be<g ref="char:EOLhyphen"/>halfe. Assuring you moreover, that as wee have very good sa<g ref="char:EOLhyphen"/>tisfaction
+<pb facs="tcp:18736:9"/>in the praceeding of your said <hi>Synod,</hi> and also of your Deputies, you shall receive ample proofes of our good will to<g ref="char:EOLhyphen"/>wardr you whensoever occasion shall be offered.</p>
+            <closer>
+               <dateline>Given at <hi>Monctaun,</hi>
+                  <date>the <hi>21.</hi> of September, <hi>1631.</hi>
+                  </date>
+               </dateline>
+               <signed>Signed, LOWIS. Lower, PHELEPRAVX.</signed> And titled aboue thus.
+<salute>
+                  <hi>To our deare and welbeloved, the Deputies of the Na<g ref="char:EOLhyphen"/>tionall</hi> Synod <hi>of those our Subiects which make profession of the Religion, pretended the refor<g ref="char:EOLhyphen"/>med Religion, assembled by Our permission at</hi> Charenton.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:18736:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
